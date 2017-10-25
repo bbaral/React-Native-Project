@@ -16,7 +16,7 @@ const Button = ({onPress, children}) => {
             {children}
         </Text>
         </TouchableOpacity>
-    )
+    );
 };
 
 const styles = {
@@ -41,4 +41,4 @@ const styles = {
     }
 };
 
-export { Button };
+export {Button};
