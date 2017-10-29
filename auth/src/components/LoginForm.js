@@ -87,4 +87,4 @@ const styles = {
     }
 };
 
-export {LoginForm};
+export { LoginForm };
